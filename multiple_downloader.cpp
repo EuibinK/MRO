@@ -13,6 +13,11 @@
 using namespace std;
 
 /*-----------------------------------------------------------------------------------------------
+ * Code originally written by Euibin Kim
+ *
+ * Last Modified: JULY 2025
+ *
+ * Code Description:
  * Function to download multiple CTX/HiRISE images
  *
  * Usage:
